@@ -4,7 +4,8 @@
   "description": "stow files w/ utility scripts",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "reload": "node src/reload"
   },
   "repository": {
     "type": "git",
