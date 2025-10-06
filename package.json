@@ -1,0 +1,19 @@
+{
+  "name": "knot-stow",
+  "version": "1.0.0",
+  "description": "stow files w/ utility scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Knot-Here/knot-stow.git"
+  },
+  "author": "Knot-Here",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Knot-Here/knot-stow/issues"
+  },
+  "homepage": "https://github.com/Knot-Here/knot-stow#readme"
+}
